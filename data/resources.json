@@ -1,0 +1,19 @@
+{
+  "docker": "Docker official 'Get Started' guide - containerise one of your projects",
+  "kubernetes": "Kubernetes basics (kubernetes.io tutorials)",
+  "aws": "AWS Cloud Practitioner Essentials (free on AWS Skill Builder)",
+  "pytorch": "PyTorch 'Learn the Basics' tutorial series",
+  "tensorflow": "TensorFlow beginner tutorials on tensorflow.org",
+  "sql": "SQLBolt + 20 LeetCode SQL problems",
+  "nlp": "Hugging Face NLP Course (free)",
+  "llm": "DeepLearning.AI short courses on LLMs",
+  "rag": "Build a PDF Q&A app with LangChain/LlamaIndex",
+  "mlops": "Made With ML - MLOps lessons",
+  "mlflow": "MLflow quickstart - track experiments for one project",
+  "git": "Pro Git book (chapters 1-3) and push every project to GitHub",
+  "fastapi": "FastAPI tutorial - serve a trained model as an API",
+  "system design": "System Design Primer (GitHub)",
+  "data structures": "NeetCode 150 roadmap",
+  "algorithms": "NeetCode 150 roadmap",
+  "statistics": "Khan Academy statistics + StatQuest on YouTube"
+}

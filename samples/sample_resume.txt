@@ -1,0 +1,14 @@
+Ravi Kumar | ravi@example.com | github.com/ravikumar | linkedin.com/in/ravikumar
+
+Education
+B.Tech CSE (AI & ML), 2026 - CGPA 8.4
+
+Skills
+Python, SQL, pandas, numpy, scikit-learn, machine learning, NLP, Git, Streamlit, data structures
+
+Projects
+Sentiment Analyzer - fine-tuned a transformers model on 50000 reviews, reached 91% accuracy, built a Streamlit demo.
+Sales Forecasting - used pandas and matplotlib on 3 years of data, reduced error by 18%.
+
+Experience
+ML Intern - cleaned 10000 records, built 2 dashboards with Excel and Power BI.

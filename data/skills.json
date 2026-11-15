@@ -1,0 +1,10 @@
+{
+  "Programming": ["python", "java", "c++", "c", "javascript", "typescript", "sql", "r", "go", "bash"],
+  "ML / AI": ["machine learning", "deep learning", "nlp", "computer vision", "reinforcement learning", "scikit-learn", "tensorflow", "pytorch", "keras", "transformers", "hugging face", "llm", "rag", "langchain", "opencv", "xgboost", "feature engineering", "model deployment"],
+  "Data": ["pandas", "numpy", "matplotlib", "seaborn", "power bi", "tableau", "excel", "data analysis", "data visualization", "statistics", "etl", "spark", "hadoop"],
+  "Web / Backend": ["flask", "fastapi", "django", "streamlit", "react", "node.js", "rest api", "html", "css"],
+  "Databases": ["mysql", "postgresql", "mongodb", "redis", "sqlite", "firebase"],
+  "DevOps / Cloud": ["git", "github", "docker", "kubernetes", "aws", "azure", "gcp", "ci/cd", "linux", "mlops", "mlflow"],
+  "CS Fundamentals": ["data structures", "algorithms", "oop", "operating systems", "dbms", "computer networks", "system design"],
+  "Soft Skills": ["communication", "teamwork", "leadership", "problem solving", "agile"]
+}

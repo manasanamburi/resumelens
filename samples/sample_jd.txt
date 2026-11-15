@@ -1,0 +1,4 @@
+Machine Learning Engineer (Fresher)
+We need someone with Python, SQL, machine learning, deep learning and NLP.
+You will use PyTorch, scikit-learn, pandas, Docker and Git. Experience with
+FastAPI, AWS and MLOps is a plus. Strong problem solving and communication skills.
